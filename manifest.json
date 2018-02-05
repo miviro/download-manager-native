@@ -1,0 +1,7 @@
+{
+    "name": "download-manager-native",
+    "description": "Example host for native messaging",
+    "path": "../download-manager-native/download-manager-native.py",
+    "type": "stdio",
+    "allowed_extensions": [ "download-manager-native@miviro" ]
+  }
